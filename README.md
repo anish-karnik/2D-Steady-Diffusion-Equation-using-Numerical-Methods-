@@ -1,3 +1,5 @@
+
+#Collaborated work of Anish Karnik| Jivitesh Soneji| Mithil Pechimuthu
 # 2D-Steady-Diffusion-Equation-using-Numerical-Methods-
 2D Steady Diffusion Equation using Numerical Methods     
 
